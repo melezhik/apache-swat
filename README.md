@@ -3,7 +3,7 @@
 Apache [swat](https://github.com/melezhik/swat) tests
 
 
-# Install and configuration
+# Installation and configuration
 
     apt-get install curl
     cpanm swat
