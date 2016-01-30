@@ -1,5 +1,0 @@
-300 Multiple Choices
-we found documents with names similar to the one you requested
-foo.bar
-foo.baz
-
