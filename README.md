@@ -5,6 +5,7 @@ Apache [swat](https://github.com/melezhik/swat) tests
 
 # Install and configuration
 
+    apt-get install curl
     cpanm swat
 
     git clone https://github.com/melezhik/apache-swat.git
@@ -16,8 +17,12 @@ Apache [swat](https://github.com/melezhik/swat) tests
 
 # Run tests
 
-    swat
+    swat 
 
+# Running tests for certain issue
+
+    swat -t 44221/
+ 
 # Authtor 
 
 Alexey Melezhik
