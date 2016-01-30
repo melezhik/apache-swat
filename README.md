@@ -12,7 +12,7 @@ Apache [swat](https://github.com/melezhik/swat) tests
 
     # generate httpd.conf and run apache with it
     ./configure.bash /path/to/apache/server/root
-    sudo ~/apache/bin/apachectl -f `pwd`/httpd.conf
+    sudo /path/to/apache/install/prefix/bin/apachectl -f `pwd`/httpd.conf
 
 # Run tests
 
