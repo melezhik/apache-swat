@@ -1,0 +1,5 @@
+Require all denied
+RewriteEngine on
+RewriteRule .* goodbye.txt [L]
+
+
