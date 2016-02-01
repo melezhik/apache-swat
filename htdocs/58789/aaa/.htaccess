@@ -1,2 +1,7 @@
-Header set AAA ZZZ
+<FilesMatch ".*">
+
+    Header set AAA ZZZ
+
+</FilesMatch>
+
 

@@ -3,5 +3,6 @@
 
 
 # headers
-regexp: ^AAA: XXXXXXXX
+within: ^AAA: \S+
+XXXXXXXX
 
