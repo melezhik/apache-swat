@@ -1,0 +1,8 @@
+# allow passenv variables who's name contain '(' or ')' 
+SetEnv 'BAR(123)'  "123"
+PassEnv 'BAR(123)'
+
+AddType text/html .shtml
+AddOutputFilter INCLUDES .shtml 
+Options +Includes 
+
