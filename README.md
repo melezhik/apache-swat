@@ -1,6 +1,6 @@
 # SYNOPSIS
 
-Apache [swat](https://github.com/melezhik/swat) tests
+Run [swat](https://github.com/melezhik/swat) tests for some existed Apache httpd2 [issues](https://bz.apache.org/bugzilla/buglist.cgi?quicksearch=Product%3AApache%20httpd-2%20AND%20Assignee%3Abugs&list_id=139965) 
 
 
 # Installation and configuration
