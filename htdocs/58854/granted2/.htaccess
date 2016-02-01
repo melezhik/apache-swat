@@ -1,0 +1,5 @@
+Require all granted
+RewriteEngine on
+RewriteRule .* /goodbye.txt [L]
+
+
