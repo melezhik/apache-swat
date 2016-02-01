@@ -22,8 +22,12 @@ Apache [swat](https://github.com/melezhik/swat) tests
 # Running tests for certain issue
 
     swat -t 44221/
- 
-# Authtor 
+
+# SWAT
+
+For more documentation on swat testing framework - please follow [documentation pages](https://github.com/melezhik/swat) 
+
+# Author 
 
 Alexey Melezhik
 
