@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*).txt data/$1.data
