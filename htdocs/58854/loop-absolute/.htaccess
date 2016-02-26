@@ -1,0 +1,3 @@
+RewriteEngine ON
+RewriteRule .* /58854/loop-absolute/index.html 
+
